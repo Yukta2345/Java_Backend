@@ -142,13 +142,14 @@ fetch('https://javabackend-production-8f64.up.railway.app/api/insurance', {
 ---
 
 ## 📝 License
+Copyright (c) Yukta
 This project is licensed under the **MIT License**.
 
 ---
 
 ## 📞 Contact
 For any issues, contact:
-📧 **Your Email**
+📧 **yuktamiglani2333@gmail.com**
 
 ---
 
